@@ -34,3 +34,4 @@ for filename in os.listdir(directory):
             o.write(find)
             
             o.close()
+            obrij
